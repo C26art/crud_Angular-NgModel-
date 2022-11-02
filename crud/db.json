@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "nome": "Bic",
+      "quantidade": 3,
+      "fornecedor": "Caculinha",
+      "validade": "10 anos",
+      "categoria": "Caneta"
+    },
+    {
+      "id": 2,
+      "nome": "HugoBoss",
+      "quantidade": 6,
+      "fornecedor": "Caculinha",
+      "validade": "20 anos",
+      "categoria": "Caneta"
+    }
+  ]
+}
